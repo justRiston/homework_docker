@@ -1,4 +1,4 @@
-<center>![alt text](https://i.imgur.com/EPGubb8.png)</center>
+<center>![alt text](https://i.ibb.co/GRq2Bvs/snap.png)</center>
 
 # Apriorit Virtual Encrypted Disk
 A driver and Graphical User Interface to work with virtual encrypted disks.
